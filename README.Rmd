@@ -18,6 +18,8 @@ Year <- "2025"
 
 # `r Title`
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17849288.svg)](https://doi.org/10.5281/zenodo.17849288)
+
 [Francisca Castro](https://francisca-castro.com/) • ISDC - International Security and Development Center\
 [Jennifer Oser](https://www.jenniferoser.com/) • Department of Politics and Government • Ben-Gurion University of the Negev\
 [Fernando Feitosa](https://ferfeitosa.github.io/) • School of Government and International Relations • Griffith University\
@@ -41,3 +43,4 @@ The script `00-data-prep` contains the code to make the necessary modifications 
 The script `01-replication` contains the code to replicate the figures and tables of both the manuscript and the supplementary information.
 
 ## References
+

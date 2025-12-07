@@ -1,6 +1,8 @@
 
 # External Cues and Policy Preferences: Rethinking the Drivers of Policy Positions
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17849288.svg)](https://doi.org/10.5281/zenodo.17849288)
+
 [Francisca Castro](https://francisca-castro.com/) • ISDC - International
 Security and Development Center  
 [Jennifer Oser](https://www.jenniferoser.com/) • Department of Politics
