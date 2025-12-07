@@ -78,8 +78,8 @@ ate_plot <- ggplot(ate_m1, aes(y = term, x = estimate)) +
 
 ate_plot
 
-ggsave("outputs/figures/ate_plot_2.png", plot = ate_plot, dpi = 600, 
-       width = 6, height = 4)
+ggsave("outputs/figures/fig_1.png", plot = ate_plot, dpi = 800, 
+       width = 6, height = 4, bg = "white")
 
 
 ### Figure 2 - Interaction with Party ID 
@@ -166,8 +166,8 @@ ate_plot2 <- ggplot(ate_m2, aes(y = treatment, x = estimate, shape = party_id)) 
 ate_plot2
 
 
-ggsave("outputs/figures/inter_plot_partyid_2.png", plot = ate_plot2, 
-       dpi = 600, width =7.6, height = 7)
+ggsave("outputs/figures/fig_2.png", plot = ate_plot2, 
+       dpi = 1000, width =7.6, height = 7, bg = "white")
 
 ### Figure 2b - Interaction with Trump approval
 model2_ta <- lm(policy_opinion ~ male  + trump_approve + 
@@ -513,9 +513,9 @@ model4_ate_plot <- model4_ate_plot + ggtitle("(b) Social Conformism") + theme(pl
 merged_figures <- grid.arrange(model3_ate_plot, model4_ate_plot, ncol = 2)
 
 
-ggsave("outputs/figures/merged_figures.png", 
+ggsave("outputs/figures/fig_3.png", 
        plot = merged_figures, 
-       dpi = 600, 
+       dpi = 1200, 
        width = 12, 
        height = 6)
 

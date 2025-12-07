@@ -3,7 +3,6 @@ output: github_document
 bibliography: references.bib
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r, echo = FALSE}
 knitr::opts_chunk$set(
@@ -14,21 +13,22 @@ knitr::opts_chunk$set(
 # Please put your title here to include it in the file below.
 Title <- "External Cues and Policy Preferences: Rethinking the Drivers of Policy Positions"
 Authors <- "Francisca Castro, Jennifer Oser, Fernando Feitosa & Nir Ginberg"
-Year <- "2024"
+Year <- "2025"
 ```
 
 # `r Title`
 
-[Francisca Castro](https://francisca-castro.com/) • Institute of Social Sciences • Humboldt-Universität zu Berlin\
+[Francisca Castro](https://francisca-castro.com/) • ISDC - International Security and Development Center\
 [Jennifer Oser](https://www.jenniferoser.com/) • Department of Politics and Government • Ben-Gurion University of the Negev\
-[Fernando Feitosa](https://ferfeitosa.github.io/) • Department of Political Science • McGill University\
-[Nir Grinberg](https://www.nirg.net/) • Department of Software and Information Systems Engineering • Ben-Gurion University of the Negev
+[Fernando Feitosa](https://ferfeitosa.github.io/) • School of Government and International Relations • Griffith University\
+[Nir Grinberg](https://www.nirg.net/) • Faculty of Computer and Information Science • Ben-Gurion University of the Negev
 
 ------------------------------------------------------------------------
 
 ## Abstract
 
-At a time when the influence of multiple types of external cues on opinion formation is gaining attention due to their relevance for preference formation, this research note investigates how external cues from political elites and close friends shape individual policy preferences. Building on prior studies by @barber2018 and @barber2023 regarding Donald Trump's impact on people's policy preferences in surveys fielded during his 2017-2021 presidency, we examine whether this influence persists soon after Trump's first presidential tenure concludes in late 2021 through a survey experiment to a representative sample of Americans. We also assess the influence of a second external cue that has gained attention due to the growing role of social media in political processes: a close friend, who might also serve as a relevant figure for policy position formation. We find that the effects of these cues are limited and conditional on respondents' characteristics, such as Republican party affiliation and low levels of political knowledge. These findings suggest the importance of official office-holding for the influence of political elites, and also indicate that policy preferences may be less malleable through social networks than is often presumed in contemporary discourse.
+At a time when the influence of external cues on opinion formation is gaining attention due to their relevance for preference formation, this research note investigates how external cues from political elites and close friends shape individual policy preferences. Building on prior studies by Barber and Pope [-@barber2018; -@barber2023] regarding Donald Trump’s impact on people’s policy preferences during his 2017-2021 presidency, we examine whether this influence persists soon after Trump’s first presidential tenure concludes in late 2021 through a survey experiment. We also assess the influence of a second external cue that has gained attention due to the growing role of social media in political processes: a close friend, who might also serve as a relevant figure for policy position formation. We find that Trump’s liberal cues shift Republican preferences in a liberal direction, while close friend cues show diverse patterns, including some backlash effects where individuals adopt positions opposite to conservative friend advocacy. These effects vary with individuals’ party identification, political knowledge, and social conformity levels. Individual characteristics moderate political elite influence, while peer influence operates through reactance mechanisms rather than conformity, revealing that social networks shape opinions through more complex pathways than commonly theorized.
+
 
 ------------------------------------------------------------------------
 
